@@ -3,6 +3,7 @@ import instagram from "../assets/instagram.png";
 import linkedin from "../assets/linkedin.jpg";
 import github from "../assets/github.png";
 import twitter from "../assets/twitter.png";
+import spotify from "../assets/spotify.png";
 
 const items = [
   {
@@ -34,6 +35,12 @@ const items = [
     subtitle: "Know more about my profession 👨‍💼",
     image: linkedin,
     link: "https://www.linkedin.com/in/rezafahlevi/",
+  },
+  {
+    title: "Spotify",
+    subtitle: "wanna listen music with me? 🎧",
+    image: spotify,
+    link: "https://open.spotify.com/user/4dszpqfl2s98k0hmft74vum9n?si=e43e0b350f854b8b",
   },
 ];
 
