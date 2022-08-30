@@ -26,7 +26,7 @@ const items = [
   },
   {
     title: "Twitter",
-    subtitle: "@rzfhlvb | 😉",
+    subtitle: "@txtdarireza | 😉",
     image: twitter,
     link: "https://twitter.com/txtdarireza",
   },
